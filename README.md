@@ -20,7 +20,7 @@ gojofetch.cpp is a simple system fetch tool written in C++ that displays system 
 ```bash
 # Clone the repository
 git clone https://github.com/luvth/gojofetch.git
-cd gojofetch.cpp
+cd gojofetch
 
 # Compile the program
 g++ -o gjfetch gojofetch.cpp -std=c++17
