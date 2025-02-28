@@ -23,7 +23,7 @@ git clone https://github.com/luvth/gojofetch.git
 cd gojofetch
 
 # Compile the program
-g++ -o gjfetch gojofetch.cpp -std=c++17
+g++ -o gjfetch gjfetch.cpp -std=c++17
 
 # Move the binary to /bin for system-wide use
 sudo mv gjfetch /bin/
